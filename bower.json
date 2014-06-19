@@ -1,0 +1,17 @@
+{
+  "name": "BoardMVC-Resources",
+  "version": "0.0.1",
+  "homepage": "https://github.com/BoardMVC/BoardMVC-Resources",
+  "authors": [
+    "Matt Aitchison <Matt@lanciv.com>",
+    "Frankie Bagnardi <f.bagnardi@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
